@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+#home{
+    height: 100vh;
+}
+#home h1{
+    margin-top: 120px;
+    font-size: 60px;
+    font-weight: 300;
+}
+#home2 button{
+    width: 150px;
+    padding: 10px;
+    color: black;
+    margin-top: 100px;
+    border-radius: 0px;
+}
+#home2 img{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+#restaurant{
+    height: 100vh;
+}
+#restaurant .card{
+    margin-top: 100px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+#delivery{
+    height: 50vh;
+}
+#maps{
+    height: 100vh;
+    margin-top: 30px;
+}
+#maps img{
+    width: 100%;
+}
+#instagram{
+    height: 75vh;
+}
+#instagram h5{
+    font-size: 40px;
+    font-weight: 300;
+}
+#instagram h5 span{
+    color: rgb(224, 23, 23);
+}
+#instagram img{
+    margin-top: 30px;
+}
